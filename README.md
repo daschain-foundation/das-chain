@@ -100,12 +100,16 @@ Vote on chain upgrades, funding, and parameter changes
 
 Future versions will introduce the DAS DAO, managing treasury disbursements and community grants.
 
-🛠️ Developer Resources
-Resource	Description
-Docs (coming soon)	Technical documentation and guides
-Whitepaper v1.0 (PDF)	Conceptual overview
-Cosmos SDK Docs	Learn Cosmos module development
-Ignite CLI Docs	CLI tooling for scaffolding modules and networks
+## 🛠️ Developer Resources
+
+| Resource | Description |
+|-----------|-------------|
+| [📄 Whitepaper v1.0 (PDF)](https://github.com/daschain-foundation/das-chain/raw/main/docs/DAS_Chain_Whitepaper_v1.0.pdf) | Conceptual overview of DAS Chain — architecture, tokenomics, and mission |
+| [📘 Technical Docs (coming soon)](https://github.com/daschain-foundation/das-chain/wiki) | In-depth documentation for validators, developers, and integrators |
+| [📚 Cosmos SDK Docs](https://docs.cosmos.network/) | Learn to build modules and applications on the Cosmos SDK |
+| [⚡ Ignite CLI Docs](https://docs.ignite.com/) | CLI tooling for scaffolding, configuring, and testing Cosmos chains |
+| [🧠 DAS Modules (coming soon)](https://github.com/daschain-foundation/das-chain/tree/main/x) | Source code and specifications for DAS Chain’s native modules |
+
 
 🌐 Related Ecosystem Projects
 Project	Domain	Description
