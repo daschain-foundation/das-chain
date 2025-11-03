@@ -110,7 +110,6 @@ Future versions will introduce the DAS DAO, managing treasury disbursements and 
 | [⚡ Ignite CLI Docs](https://docs.ignite.com/) | CLI tooling for scaffolding, configuring, and testing Cosmos chains |
 | [🧠 DAS Modules (coming soon)](https://github.com/daschain-foundation/das-chain/tree/main/x) | Source code and specifications for DAS Chain’s native modules |
 
-
 🌐 Related Ecosystem Projects
 Project	Domain	Description
 DuckboardsAndStilts.com	Main community & marketplace hub	
