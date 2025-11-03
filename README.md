@@ -111,15 +111,13 @@ Future versions will introduce the DAS DAO, managing treasury disbursements and 
 | [🧠 DAS Modules (coming soon)](https://github.com/daschain-foundation/das-chain/tree/main/x) | Source code and specifications for DAS Chain’s native modules |
 
 🌐 Related Ecosystem Projects
-Project	Domain	Description
-DuckboardsAndStilts.com
-	Main community & marketplace hub	
-DAS Ecosystem
-	Educational and self-development content	
-DAS Foundation
-	Governance, transparency, and funding portal	
-DAS Chain
-	Blockchain technical and validator documentation	
+| Project                                                    | Domain                                           | Description |
+| ---------------------------------------------------------- | ------------------------------------------------ | ----------- |
+| [DuckboardsAndStilts.com](https://duckboardsandstilts.com) | Main community & marketplace hub                 |             |
+| [DAS Ecosystem](https://dasecosystem.com)                  | Educational and self-development content         |             |
+| [DAS Foundation](https://das-foundation.org)               | Governance, transparency, and funding portal     |             |
+| [DAS Chain](https://daschain.org)                          | Blockchain technical and validator documentation |             |
+	
 
 💡 Vision
 “A world where people own their time, health, and financial freedom.”
