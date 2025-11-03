@@ -70,9 +70,11 @@ DST is designed for **utility and participation**, not speculation — empowerin
 git clone https://github.com/daschain-foundation/das-chain.git
 cd das-chain
 ignite chain build
+3️⃣ Initialize & Start a Local Node
+bash
+Copy code
 dasd init local --chain-id das-local-1
 dasd start
-
 Your node will start syncing blocks locally at http://localhost:26657
 
 🌍 Network Parameters (Genesis Defaults)
@@ -83,8 +85,8 @@ Bonded Tokens Goal	67%
 Inflation Bounds	0% – 10%
 Community Tax	2%
 Max Validators	100
-🧱 Governance
 
+🧱 Governance
 DAS Chain governance follows the standard Cosmos x/gov model.
 
 Token holders can:
@@ -99,28 +101,19 @@ Future versions will introduce the DAS DAO, managing treasury disbursements and 
 
 🛠️ Developer Resources
 Resource	Description
-Docs (coming soon)
-	Technical documentation and guides
-Whitepaper v1.0 (PDF)
-	Conceptual overview
-Cosmos SDK Docs
-	Learn Cosmos module development
-Ignite CLI Docs
-	CLI tooling for scaffolding modules and networks
-  
+Docs (coming soon)	Technical documentation and guides
+Whitepaper v1.0 (PDF)	Conceptual overview
+Cosmos SDK Docs	Learn Cosmos module development
+Ignite CLI Docs	CLI tooling for scaffolding modules and networks
+
 🌐 Related Ecosystem Projects
 Project	Domain	Description
-DuckboardsAndStilts.com
-	Main community & marketplace hub	
-DAS Ecosystem
-	Educational and self-development content	
-DAS Foundation
-	Governance, transparency, and funding portal	
-DAS Chain
-	Blockchain technical and validator documentation	
-  
-💡 Vision
+DuckboardsAndStilts.com	Main community & marketplace hub	
+DAS Ecosystem	Educational and self-development content	
+DAS Foundation	Governance, transparency, and funding portal	
+DAS Chain	Blockchain technical and validator documentation	
 
+💡 Vision
 “A world where people own their time, health, and financial freedom.”
 
 DAS Chain merges human potential with decentralized technology, creating a digital ecosystem where growth, contribution, and prosperity are shared openly.
