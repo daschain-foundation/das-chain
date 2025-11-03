@@ -112,10 +112,14 @@ Future versions will introduce the DAS DAO, managing treasury disbursements and 
 
 🌐 Related Ecosystem Projects
 Project	Domain	Description
-DuckboardsAndStilts.com	Main community & marketplace hub	
-DAS Ecosystem	Educational and self-development content	
-DAS Foundation	Governance, transparency, and funding portal	
-DAS Chain	Blockchain technical and validator documentation	
+DuckboardsAndStilts.com
+	Main community & marketplace hub	
+DAS Ecosystem
+	Educational and self-development content	
+DAS Foundation
+	Governance, transparency, and funding portal	
+DAS Chain
+	Blockchain technical and validator documentation	
 
 💡 Vision
 “A world where people own their time, health, and financial freedom.”
