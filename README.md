@@ -70,6 +70,7 @@ DST is designed for **utility and participation**, not speculation — empowerin
 git clone https://github.com/daschain-foundation/das-chain.git
 cd das-chain
 ignite chain build
+```
 3️⃣ Initialize & Start a Local Node
 bash
 Copy code
