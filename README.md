@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daschain-foundation/.github/main/assets/DAS_Banner1.png" alt="DAS Chain Banner" />
+  <img src="https://raw.githubusercontent.com/daschain-foundation/.github/main/assets/DAS_Banner2.png" alt="DAS Chain Banner" />
 </p>
 
 ---
