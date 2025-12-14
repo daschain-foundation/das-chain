@@ -36,10 +36,11 @@ The network’s native token, **DST**, fuels every aspect of the system — from
 | Parameter | Value |
 |------------|-------|
 | **Symbol** | DST |
-| **Base Denom** | `udst` (1 DST = 1,000,000 udst) |
+| **Base Denom** | `mdst` (1 DST = 1,000,000 mdst) |
 | **Genesis Supply** | 1,000,000,000 DST |
 | **Inflation (initial)** | 0% – adjustable via DAO proposal |
 | **Roles** | Gas, Staking, Governance, Rewards |
+| **Note** | The base denomination was intentionally named mdst (micro-DST) to avoid confusion with existing stablecoins such as USDT.
 
 DST is designed for **utility and participation**, not speculation — empowering users to transact, learn, and earn transparently.
 
@@ -80,7 +81,7 @@ Your node will start syncing blocks locally at http://localhost:26657
 
 🌍 Network Parameters (Genesis Defaults)
 Parameter	Value
-Staking Denom	udst
+Staking Denom	mdst
 Block Time	6s
 Bonded Tokens Goal	67%
 Inflation Bounds	0% – 10%
