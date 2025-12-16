@@ -105,7 +105,8 @@ Future versions will introduce the DAS DAO, managing treasury disbursements and 
 
 | Resource | Description |
 |-----------|-------------|
-| [📄 Whitepaper v1.0 (PDF)](https://github.com/daschain-foundation/das-chain/raw/main/docs/DAS_Chain_Whitepaper_v1.0.pdf) | Conceptual overview of DAS Chain — architecture, tokenomics, and mission |
+| [📄 Whitepaper v1.1 (PDF)](https://github.com/daschain-foundation/das-chain/raw/main/docs/DAS_Chain_Whitepaper_v1.1.pdf) | Conceptual overview of DAS Chain — architecture, tokenomics, and mission |
+| [🗂️ Archived v1.0 (PDF)](.https://github.com/daschain-foundation/das-chain/raw/main/docsarchive/DAS_Chain_Whitepaper_v1.0.pdf) | Archived for historical reference (superseded by v1.1) |
 | [📘 Technical Docs (coming soon)](https://github.com/daschain-foundation/das-chain/wiki) | In-depth documentation for validators, developers, and integrators |
 | [📚 Cosmos SDK Docs](https://docs.cosmos.network/) | Learn to build modules and applications on the Cosmos SDK |
 | [⚡ Ignite CLI Docs](https://docs.ignite.com/) | CLI tooling for scaffolding, configuring, and testing Cosmos chains |
