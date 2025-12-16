@@ -72,11 +72,13 @@ git clone https://github.com/daschain-foundation/das-chain.git
 cd das-chain
 ignite chain build
 ```
-3️⃣ Initialize & Start a Local Node
-bash
-Copy code
+
+### 3️⃣ Initialize & Start a Local Node
+```bash
 dasd init local --chain-id das-local-1
 dasd start
+```
+
 Your node will start syncing blocks locally at http://localhost:26657
 
 🌍 Network Parameters (Genesis Defaults)
@@ -106,7 +108,7 @@ Future versions will introduce the DAS DAO, managing treasury disbursements and 
 | Resource | Description |
 |-----------|-------------|
 | [📄 Whitepaper v1.1 (PDF)](https://github.com/daschain-foundation/das-chain/raw/main/docs/DAS_Chain_Whitepaper_v1.1.pdf) | Conceptual overview of DAS Chain — architecture, tokenomics, and mission |
-| [🗂️ Archived v1.0 (PDF)](.https://github.com/daschain-foundation/das-chain/raw/main/docsarchive/DAS_Chain_Whitepaper_v1.0.pdf) | Archived for historical reference (superseded by v1.1) |
+| [🗂️ Archived v1.0 (PDF)](https://github.com/daschain-foundation/das-chain/raw/main/docs/archive/DAS_Chain_Whitepaper_v1.0.pdf)|
 | [📘 Technical Docs (coming soon)](https://github.com/daschain-foundation/das-chain/wiki) | In-depth documentation for validators, developers, and integrators |
 | [📚 Cosmos SDK Docs](https://docs.cosmos.network/) | Learn to build modules and applications on the Cosmos SDK |
 | [⚡ Ignite CLI Docs](https://docs.ignite.com/) | CLI tooling for scaffolding, configuring, and testing Cosmos chains |
@@ -126,4 +128,4 @@ Future versions will introduce the DAS DAO, managing treasury disbursements and 
 
 DAS Chain merges human potential with decentralized technology, creating a digital ecosystem where growth, contribution, and prosperity are shared openly.
 
-<p align="center"> © 2025 DAS Foundation · Empowering People to Own Their Lives </p> ```
+<p align="center"> © 2025 DAS Foundation · Empowering People to Own Their Lives </p>
