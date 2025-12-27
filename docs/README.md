@@ -11,7 +11,8 @@ This repository contains the canonical technical and economic documentation for 
 The DAS Chain Whitepaper provides the technical, economic, and governance foundations of the protocol.
 
 - **Current version:** v1.1  
-- **Change from v1.0:** Base denomination renamed from `udst` to `mdst` for clarity and to avoid confusion with USDT.
+- **Notable Change from v1.0:** Base denomination renamed from udst to mdst to improve clarity and avoid confusion with similarly named stablecoin denominations.
+- **Document status:** Editorial clarifications only; no material changes to protocol design or tokenomics.
 
 - 📄 [Whitepaper (latest PDF)](./whitepaper/DAS-Chain-Whitepaper-latest.pdf)
 - 📄 [Whitepaper v1.1 (PDF)](./whitepaper/DAS-Chain-Whitepaper-v1.1.pdf)
